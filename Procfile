@@ -1,1 +1,1 @@
-worker: python enoc_bot.py
+worker: python3 enoc_bot.py
