@@ -1,1 +1,1 @@
-worker: python enoc_bot.py
+web: python enoc_bot.py
